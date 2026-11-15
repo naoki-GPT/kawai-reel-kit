@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "files": [
     {
       "path": ".env.example",
@@ -33,13 +33,13 @@
     },
     {
       "path": "2026-11-15_河合さん_押す場所ガイド.pdf",
-      "bytes": 1042445,
-      "sha256": "f77e8a9eecabaa7fbbb839f652e0b2547fbeca4bce9280348d85d78a4eacf05c"
+      "bytes": 1042441,
+      "sha256": "cfc209bf6661247af550efc4055fa3531da9249c5a187ae875ac6ca7180e14ba"
     },
     {
       "path": "AGENTS.md",
-      "bytes": 4525,
-      "sha256": "e002b67e07814d228f4659c03ec9bd75153f95e3b5abc4d7497a4d1afbc09c7b"
+      "bytes": 5281,
+      "sha256": "e0357724203c02361915584cdb3b52305425bddd96170244fbb1a8cc95f90305"
     },
     {
       "path": "AIへの依頼文.txt",
@@ -323,8 +323,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9060,
-      "sha256": "9b03cadb6316a3c6f7f4515311931e33de70d48b2cf59bbbc7fed3cc43f8052b"
+      "bytes": 9333,
+      "sha256": "656408af357fa826fb4f8b1d84b846c727fe22947e3adb0132c428c06e53726d"
     },
     {
       "path": "requirements.txt",
@@ -344,7 +344,7 @@
     {
       "path": "skills/instagram-reel-trace/references/usage.md",
       "bytes": 11638,
-      "sha256": "4c3b241fed08272fb1fffb885bce7f59643b84ae52faf252713072a674f951fe"
+      "sha256": "7137f78644c95a290baa241d24a6ef604e9cdcd93db0d7f59d20a4967c35828c"
     },
     {
       "path": "skills/instagram-reel-trace/scripts/make_review.py",
@@ -358,8 +358,8 @@
     },
     {
       "path": "skills/instagram-reel-trace/SKILL.md",
-      "bytes": 14944,
-      "sha256": "f072a7bbe00eb79aab76493663d5926b501053eb99d7d229ed2b8eb02b8cbd5f"
+      "bytes": 15989,
+      "sha256": "dea757605368868a2948e96fbd228acbf3cf1e0e4bdb05b6c0d512e764154ecf"
     },
     {
       "path": "start.ps1",
@@ -378,13 +378,13 @@
     },
     {
       "path": "はじめに.html",
-      "bytes": 14496,
-      "sha256": "25282249a34aaac36ee04483c84f883b60f9bf0140c8737cf899e2d4016451ef"
+      "bytes": 14504,
+      "sha256": "e6cb1ea49fd13d2daf74975d3ddd0edade48239f8a269fd86bcd81c5fe903ee4"
     },
     {
       "path": "制作依頼テンプレート.md",
-      "bytes": 885,
-      "sha256": "167e3c4da9adfabd7da081fcc85231c598e6310eca63594c5193a8d9c96774f3"
+      "bytes": 963,
+      "sha256": "c61685241da302c3d78f86cc954958e2823e75530aeabe13e0383176d510a6da"
     },
     {
       "path": "動画を作る依頼文.txt",
@@ -398,13 +398,13 @@
     },
     {
       "path": "検証結果.json",
-      "bytes": 6720,
-      "sha256": "ff2d4f6f4164f7feab74dab7dfbbe2134f1bbfadbccff61c569d0bb07ee1fa2b"
+      "bytes": 7108,
+      "sha256": "38c8db552b9f90a19369455355752eda3c81d35aa6eb5d498c92d4d40fd765be"
     },
     {
       "path": "詳しい使い方.html",
       "bytes": 8778,
-      "sha256": "9b242fbce95666117b208897de8dbc0bee6a93fa961db044c39a18b25e604676"
+      "sha256": "e1d188d9607d2393dd7916dee2243385da2de1770e8234ddebf3cdce500c5117"
     }
   ]
 }
